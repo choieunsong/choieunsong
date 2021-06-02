@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=greatgelly96)](https://solved.ac/greatgelly96)
+
 <!--
 **choieunsong/choieunsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
